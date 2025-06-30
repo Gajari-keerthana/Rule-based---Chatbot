@@ -28,11 +28,15 @@ _Welcome screen_: “Hi! I’m your student support bot. How can I help you toda
 ● text input box to give questions
 ● answers based on the trained data set or if the question is out of the training set it uses
 OpenAI LLMs and answers the queries.
+
+
 _Tech Stack_:
 ● Python
 ● Tkinter
 ● Open AI - Chat GPT
 ● Model - Sklearn, Tensorflow
+
+
 _Platform_:
 ● Web App
 Feedback option “Was this helpful?” button to rate responses.
