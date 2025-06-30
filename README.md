@@ -1,9 +1,7 @@
 Project Title: Student Support Chatbot (Rule-Based for EdTech Platform)
-(Keerthana Gajari)
+                         (Keerthana Gajari)
 Objective:
-The primary objective of this rule-based chatbot is to enhance the learning experience for
-students by providing timely and automated assistance with frequently asked questions and
-common problems encountered on the EdTech platform.
+The primary objective of this rule-based chatbot is to enhance the learning experience for students by providing timely and automated assistance with frequently asked questions and common problems encountered on the EdTech platform.
 Goals:
 ● Deliver instant support to students 24/7.
 ● Help resolve common student issues like login failures, enrollment status, and
