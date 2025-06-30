@@ -1,9 +1,10 @@
-Project Title: Student Support Chatbot (Rule-Based for EdTech Platform)
+**Project Title: Student Support Chatbot (Rule-Based for EdTech Platform)**
+                         
                          (Keerthana Gajari)
 
 
 
-Objective:
+**Objective**:
 The primary objective of this rule-based chatbot is to enhance the learning experience for students by providing timely and automated assistance with frequently asked questions and common problems encountered on the EdTech platform.
 Goals:
 ● Deliver instant support to students 24/7.
@@ -20,22 +21,8 @@ User Stories:
 - I want to reset my password so I can log in to my account.
 - I want to check my course enrollment status so I can attend classes on time.
 - I want to know the schedule of my courses so I can plan my week.
-Features and Functional Requirements
-Feature Description
-Predefined intents Covers key support topics: account access,
-course info, tech issues, and deadlines.
-Decision tree logic Rule-based flows guide students through
-troubleshooting steps.
-Quick reply to buttons Options like “Reset Password”, “View
-Schedule”, “Check Enrollment” to guide
-navigation.
-Error handling Catch unrecognized input and redirect to a
-relevant menu or retry.
-Escalation to live agent Trigger human support when chatbot cannot
-resolve the issue.
-Fallback response Example: “I didn’t understand that. Try
-asking about login, enrollment, or schedule.”
-UI/UX - Wireframe Summary
+
+**UI/UX - Wireframe Summary**
 Welcome screen: “Hi! I’m your student support bot. How can I help you today?”
 ● text input box to give questions
 ● answers based on the trained data set or if the question is out of the training set it uses
