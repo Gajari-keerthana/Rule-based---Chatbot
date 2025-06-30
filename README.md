@@ -23,15 +23,16 @@ User Stories:
 - I want to know the schedule of my courses so I can plan my week.
 
 **UI/UX - Wireframe Summary**
-Welcome screen: “Hi! I’m your student support bot. How can I help you today?”
+
+_Welcome screen_: “Hi! I’m your student support bot. How can I help you today?”
 ● text input box to give questions
 ● answers based on the trained data set or if the question is out of the training set it uses
 OpenAI LLMs and answers the queries.
-Tech Stack:
+_Tech Stack_:
 ● Python
 ● Tkinter
 ● Open AI - Chat GPT
 ● Model - Sklearn, Tensorflow
-Platform:
+_Platform_:
 ● Web App
 Feedback option “Was this helpful?” button to rate responses.
